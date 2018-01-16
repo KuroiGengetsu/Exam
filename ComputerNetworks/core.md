@@ -859,6 +859,8 @@ FTP 服务器进程:
 
 ### 7. UDP协议
 
+UDP 和 TCP 是额外加的, 补充到了本文的最后, 提纲上没有说
+
 #### UDP 的特点
 
 1. UDP 是 **无连接的**
@@ -884,3 +886,31 @@ FTP 服务器进程:
 4. TCP 的 **首部** **固定部分** 是 `20` 个字节, 最长可达 **60** 字节
 
 5. TCP 是 **面向字节流** 的
+
+### 第六章 样题
+
+1. 域名系统的功能是实现 **域名** 到 **IP地址** 的解析.
+
+2. 在 万维网(WWW) 中, 使用 **统一资源定位符** 来标志 WWW 上的各种文档.
+
+  **统一资源定位符**(*uniform resource locator URL*)
+
+3. 上网时通常啊需要配置哪四项参数? 当自动获取IP地址时, 使用的是什么协议?
+
+  四项参数: **IP地址**, **子网掩码**, **默认网关**, **域名服务器的IP地址**.
+
+  使用的是 **动态主机配置协议 *dynamic host configuration protocol DHCP***
+
+4. FTP 使用两条 TCP 连接来完成文件传输, 即 **控制连接** 和 **数据连接** .
+
+5. 使用 *Wireshark* 采集到一个数据帧, 内容如下图所示(16进制表示), 请回答:
+
+![@第五题图](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/Wireshark.png?raw=true)
+
+  1. 源 MAC 地址 和 目的 MAC 地址 分别是多少?
+
+  2. 源站 和 目的站 IP 地址 分别是什么?
+
+  3. IP数据报 的 协议字段 是多少? 表示什么协议?
+
+  4. 该报文来自什么应用层协议?
