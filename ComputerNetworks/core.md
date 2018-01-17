@@ -550,7 +550,7 @@ Page 148
 ![@图5-40 | center](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/Pic5-40.png?raw=true)
 
 
-![@IP包解析结果](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/IP-classful-addressing.png?raw=true)
+![@IP包解析结果](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/IP_data_message.png?raw=true)
 
 一个十六进制数为 8 bit
 
