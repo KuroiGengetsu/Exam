@@ -134,12 +134,12 @@ Page 15
 
     - A. 服务访问点
     - B. 原语
-    - `C`. [协议](#-2.-协议-的概念以及协议的-三要素)
-    - D. [网络体系结构](#-3.-网络体系结构-的基本概念-和-OSI/RM-七个层次的名称按照顺序)
+    - `C`. [协议](#2.-协议-的概念以及协议的-三要素)
+    - D. [网络体系结构](#3.-网络体系结构-的基本概念-和-OSI/RM-七个层次的名称按照顺序)
 
-3. [网络协议](#-2.-协议-的概念以及协议的-三要素)由语法、语义和 <u>同步</u> 三个要素组成。
+3. [网络协议](#2.-协议-的概念以及协议的-三要素)由语法、语义和 <u>同步</u> 三个要素组成。
 
-4. 下列选项中, <u>不属于</u>[网络体系结构](#-3.-网络体系结构-的基本概念-和-OSI/RM-七个层次的名称)中所描述的内容是 (B)
+4. 下列选项中, <u>不属于</u>[网络体系结构](#3.-网络体系结构-的基本概念-和-OSI/RM-七个层次的名称)中所描述的内容是 (B)
 
     - A. 网络层次
     - B. 协议内部实现细节
@@ -550,7 +550,7 @@ Page 148
 ![@图5-40 | center](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/Pic5-40.png?raw=true)
 
 
-![@IP包解析结果](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/Pic5-7.png?raw=true)
+![@IP包解析结果](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/IP-classful-addressing.png?raw=true)
 
 一个十六进制数为 8 bit
 
