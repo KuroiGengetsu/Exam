@@ -1079,3 +1079,6 @@ UDP 和 TCP 是额外加的, 补充到了本文的最后, 提纲上没有说, �
 | SNMP | 161 |
 | HTTPS | 443 |
 | RTSP | 554 |
+
+![さよなら](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/truth.png?raw=true)
+さよなら！
