@@ -1,5 +1,8 @@
 # 网络技术与应用核心知识
 
+![@seeyou](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/see_you_later.png?raw=true)
+
+
 ## 出题格式
 
 - 单项选择题   (10 题, 20')
