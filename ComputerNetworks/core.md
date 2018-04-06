@@ -517,7 +517,7 @@ Page 145
 
 IP地址 32 位
 
-![@IP-classful-addressing | center](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/IP-classful-addressing.png?raw=true)
+![IP-classful-addressing](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/IP-classful-addressing.png?raw=true)
 
 110 是 C 类, 网络号 24 位
 
