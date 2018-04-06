@@ -1,8 +1,5 @@
 # 网络技术与应用核心知识
 
-![@seeyou](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/see_you_later.png?raw=true)
-
-
 ## 出题格式
 
 - 单项选择题   (10 题, 20')
@@ -1080,5 +1077,3 @@ UDP 和 TCP 是额外加的, 补充到了本文的最后, 提纲上没有说, �
 | HTTPS | 443 |
 | RTSP | 554 |
 
-![さよなら](https://github.com/KuroiGengetsu/MarkDownPictures/blob/master/Pictures/ComputerNetworks/truth.png?raw=true)
-さよなら！
